@@ -445,34 +445,34 @@ Create a modern, user-friendly e-commerce platform that allows customers to brow
 
 1. **Business Model:**
 
-   - Will this be B2C only, or also B2B?
-   - Subscription model priority?
+   - Will this be B2C only, or also B2B? B2C only.
+   - Subscription model priority? We can add this later in development, not a high priority.
 
 2. **Inventory:**
 
-   - How many products initially?
-   - Will inventory be managed manually or integrated with existing systems?
+   - How many products initially? 30 various tea products.
+   - Will inventory be managed manually or integrated with existing systems? Integrated - we can mock this for now with a database value of quantity of each tea.
 
 3. **Shipping:**
 
-   - Which regions/countries will you ship to?
-   - International shipping requirements?
+   - Which regions/countries will you ship to? U.S. only for now.
+   - International shipping requirements? No.
 
 4. **Branding:**
 
-   - Do you have brand guidelines, logo, color scheme?
-   - What's the brand personality/tone?
+   - Do you have brand guidelines, logo, color scheme? No.
+   - What's the brand personality/tone? Cozy - It's tea!
 
 5. **Budget & Resources:**
 
-   - Development budget?
-   - In-house team or external developers?
-   - Ongoing maintenance budget?
+   - Development budget? None, this is a portfolio project.
+   - In-house team or external developers? In-house, just me.
+   - Ongoing maintenance budget? No.
 
 6. **Legal:**
    - Terms of service and privacy policy requirements
    - GDPR compliance (if shipping to EU)
-   - Return/refund policy
+   - Return/refund policy - no returns. Refunds through stripe if that's possible.
 
 ---
 
